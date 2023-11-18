@@ -22,6 +22,6 @@ module.exports = {
             'chore(release): ${nextRelease.version} [skip ci]', //commit 時的 message
         },
       ],
-        
+      '@semantic-release/github',
     ],
   };
